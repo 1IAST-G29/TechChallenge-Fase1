@@ -1,0 +1,11 @@
+[project]
+name = "techchallenge-fase1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "pandas>=3.0.3",
+    "pip>=26.1.2",
+]
