@@ -10,11 +10,13 @@ ipykernel==7.3.0
 ipython==9.14.1
 ipython-pygments-lexers==1.1.1
 jedi==0.20.0
+joblib==1.5.3
 jupyter-client==8.9.1
 jupyter-core==5.9.1
 matplotlib-inline==0.2.2
+narwhals==2.22.1
 nest-asyncio2==1.7.2
-numpy==2.4.6
+numpy==2.5.0
 packaging==26.2
 pandas==3.0.3
 parso==0.8.7
@@ -29,8 +31,11 @@ pycparser==3.0 ; implementation_name == 'pypy'
 pygments==2.20.0
 python-dateutil==2.9.0.post0
 pyzmq==27.1.0
+scikit-learn==1.9.0
+scipy==1.18.0
 six==1.17.0
 stack-data==0.6.3
+threadpoolctl==3.6.0
 tornado==6.5.7
 traitlets==5.15.1
 typing-extensions==4.15.0
